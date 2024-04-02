@@ -1,2 +1,2 @@
 # analise-dados-ebac
-Repositório criado para a tarefa do Módulo 17
+Repositório criado para a tarefa do Módulo 17 do curso Profissão: Analista de Dados
