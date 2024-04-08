@@ -11,6 +11,7 @@ Os conceitos aprendidos ao longo de 3 aulas nesse módulo foram:
 - Aplicar o comando git log para organizar os commits;
 - Aplicar o comando git diff entre as versões;
 - Aplicar o comando git reset e git checkout para desfazer comandos.
+
 **Salvar e baixar alterações no Github:**
 - Aplicar o comando git push para mover arquivos da repository para remote área;
 - Aplicar o comando git pull para mover arquivos da remote para repository área;
