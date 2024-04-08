@@ -1,6 +1,7 @@
 # Módulo 18 - Controle de versão II
 
 Os conceitos aprendidos ao longo de 3 aulas nesse módulo foram:
+
 **Adicionar e salvar alterações:**
 - Identificar o fluxo de trabalho realizadas nos arquivos dos repositórios;
 - Aplicar os comandos para adicionar arquivos;
