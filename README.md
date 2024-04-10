@@ -30,10 +30,10 @@ Esse projeto foi realizado para adquirir conhecimento do controle de versionamen
 
 **Controle de versão III:**
 
-aplicar o comando git branch para listar as branches do repositório;
-aplicar o comando git fetch para atualizar os metadados das branches no repositório;
-aplicar o comando git checkout para criar novas branches;
-mover códigos entre as áreas remote de branches;
-aplicar o git merge para mover arquivos entre branches;
-excluir uma branch no repositório local.
+- aplicar o comando git branch para listar as branches do repositório;
+- aplicar o comando git fetch para atualizar os metadados das branches no repositório;
+- aplicar o comando git checkout para criar novas branches;
+- mover códigos entre as áreas remote de branches;
+- aplicar o git merge para mover arquivos entre branches;
+- excluir uma branch no repositório local.
 
